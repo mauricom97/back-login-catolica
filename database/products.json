@@ -1,0 +1,15 @@
+{
+    "client":{
+        "name": "Rodrigo Gregori Habbib"
+    },
+    "products": [
+        {
+            "name": "Mouse",
+            "valor": 200
+        },
+        {
+            "name": "Teclado",
+            "valor": "150"
+        }
+    ]
+}

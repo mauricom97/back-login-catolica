@@ -1,12 +1,12 @@
 {
     "clientes": [
         {
-            "nome": "Terabyte Atacado E Varejo De Produtos De Informatica Ltda",
-            "cnpj": "07.993.973/0003-80"
+            "nome": "Rodrigo Gregori Habbib",
+            "CPF": "380.066.470-46"
         },
         {
-            "nome": "BAZAM & PICHAU INFORMATICA LTDA",
-            "cnpj": "09.376.495/0001-22"
+            "nome": "Mauricio Nunes",
+            "cnpj": "880.852.800-60"
         }
     ]
 }
