@@ -1,15 +1,34 @@
 {
-    "client":{
-        "name": "Rodrigo Gregori Habbib"
-    },
-    "products": [
+    "clientsProducts": [
         {
-            "name": "Mouse",
-            "valor": 200
+            "client": {
+                "name": "Rodrigo Gregori Habbib"
+            },
+            "products": [
+                {
+                    "name": "Mouse",
+                    "valor": 200
+                },
+                {
+                    "name": "Teclado",
+                    "valor": "150"
+                }
+            ]
         },
         {
-            "name": "Teclado",
-            "valor": "150"
+            "client": {
+                "name": "Mauricio Nunes"
+            },
+            "products": [
+                {
+                    "name": "Teclado",
+                    "valor": 150
+                },
+                {
+                    "name": "Mouse",
+                    "valor": 300
+                }
+            ]
         }
     ]
 }
